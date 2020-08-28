@@ -1,4 +1,4 @@
-# HYCUB_Git_study
+# HYCUBE_Git_study
 For study
 |이름|학년|
 |------|------|
